@@ -1,9 +1,3 @@
-/*
-    Kim, Steve - 11951639, steveck
-    Singh, Aalambir - 87881363, aalambis
-    Assignment 2
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
